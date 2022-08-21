@@ -1,0 +1,26 @@
+{
+    
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ToyComputeTaskRegistry",
+            "request": "launch",
+            "mainClass": "client.ToyComputeTaskRegistry",
+            "projectName": "ToyServiceEngine-master_6394836d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ToyComputeEngine",
+            "request": "launch",
+            "mainClass": "engine.ToyComputeEngine",
+            "projectName": "ToyServiceEngine-master_6394836d"
+        }
+    ]
+}
