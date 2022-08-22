@@ -3,9 +3,9 @@
 
 ## Table of Contents
 *[General Info](#general-information)
-* [Programming Languages Used]
+* [Programming Languages Used](#Programming Langugages Used)
 * [Features](#features)
-* [Configuration]
+* [Configuration](#Configuration)
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
