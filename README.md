@@ -3,7 +3,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Programming Languages Used](#Programming Langugages Used)
+* [Programming Languages Used](#programming-langugages Used)
 * [Features](#features)
 * [Configuration](#Configuration)
 * [Acknowledgements](#acknowledgements)
