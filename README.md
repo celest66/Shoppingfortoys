@@ -13,7 +13,7 @@
 -Sockets and RMI are two techniques in Java which could be used to establish two-way communication between two running programs (typically a client and a server) running on the network.
 
 ## Programming-Languages 
-- The programming languages used is Java
+- The programming language used is Java
 
 ## Features
 - The client can add, delete and update a toy-price entity that is categorised into classes.
