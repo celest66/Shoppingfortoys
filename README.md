@@ -3,7 +3,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Programming Languages Used](#programming-langugages Used)
+* [Programming Languages Used](#Programming-Langugages)
 * [Features](#features)
 * [Configuration](#Configuration)
 * [Acknowledgements](#acknowledgements)
@@ -12,8 +12,8 @@
 - This project is aimed at creating a site in which the user can be able to perform functionc such as editing, adding, deleting and updating. This project implements the use of RMI and sockets.
 -Sockets and RMI are two techniques in Java which could be used to establish two-way communication between two running programs (typically a client and a server) running on the network.
 
-## Programming Languages Used
-- Java
+## Programming Languages 
+- The programming languages used is Java
 
 ## Features
 - The client can add, delete and update a toy-price entity that is categorised into classes.
