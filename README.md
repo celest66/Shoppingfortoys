@@ -2,7 +2,7 @@
 > This is a Java project that is based on a shopping cart for toys.
 
 ## Table of Contents
-*[General Info](#general-information)
+* [General Info](#general-information)
 * [Programming Languages Used](#Programming Langugages Used)
 * [Features](#features)
 * [Configuration](#Configuration)
