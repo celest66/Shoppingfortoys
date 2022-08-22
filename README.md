@@ -3,9 +3,9 @@
 
 ## Table of Contents
 *[General Info](#general-information)
-* Programming Languages Used
+* [Programming Languages Used]
 * [Features](#features)
-* Configuration
+* [Configuration]
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
@@ -23,6 +23,7 @@
 ## Configuration
 Clone the project
 ```
+https://github.com/celest66/Shoppingfortoys.git
 
 ```
 
